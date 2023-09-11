@@ -1,0 +1,14 @@
+{
+    "name": "wpackagist-plugin/avatar-manager",
+    "description": "Forked repo of https://github.com/inhausmakers/avatar-manager that resolves issue with global $post",
+    "keywords": [
+        "wordpress",
+        "post",
+        "copy",
+        "clone"
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": "^7.2.5 || ^8.0"
+    }
+}
